@@ -2,7 +2,7 @@ rpres-test
 ========================================================
 transition: rotate
 author: Matthieu Guérin
-date: 19 october 2014
+date: ```r date() ```
 
 First Slide
 ========================================================
