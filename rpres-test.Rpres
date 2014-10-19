@@ -1,0 +1,36 @@
+rpres-test
+========================================================
+transition: rotate
+author: Matthieu Guérin
+date: 19 october 2014
+
+First Slide
+========================================================
+transition: rotate
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+transition: rotate
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+transition: rotate
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+***
+
+second column
